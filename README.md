@@ -1,42 +1,42 @@
-# Olá, eu sou o Lucas! 👋
+# Hello, I'm Lucas! 👋
 
-Bem-vindo(a) ao meu cantinho digital no GitHub!
+Welcome to my digital corner on GitHub!
 
-Sou um **Desenvolvedor Júnior** em formação, apaixonado por tecnologia e sempre em busca de novos conhecimentos. Atualmente, sou aluno da **DevClub**, onde estou aprimorando minhas habilidades e construindo uma base sólida para minha carreira.
-
----
-
-## Minhas Habilidades e o que Estou Aprendendo 🚀
-
-Minha jornada na programação começou com o desenvolvimento web, e estou focado em construir interfaces incríveis e funcionais.
-
-*   **Linguagens:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-*   **Controle de Versão:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-*   **Ferramentas:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-Estou sempre aberto a aprender novas tecnologias e aprimorar as que já conheço!
+I'm an aspiring **Junior Developer**, passionate about technology and always seeking new knowledge. Currently, I'm a student at **DevClub**, where I'm honing my skills and building a solid foundation for my career.
 
 ---
 
-## Meus Objetivos Atuais ✨
+## My Skills and What I'm Learning 🚀
 
-*   **Conquistar minha primeira oportunidade como Desenvolvedor Júnior**, aplicando meus conhecimentos e paixão por tecnologia.
+My programming journey began with web development, and I'm focused on building amazing and functional interfaces.
 
-*   Construir projetos práticos e significativos para solidificar meus conhecimentos.
+*   **Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-*   Aprofundar meus conhecimentos em JavaScript e explorar bibliotecas/frameworks (como React, por exemplo, futuramente).
+*   **Version Control:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-*   Colaborar com outros desenvolvedores e aprender com a comunidade.
+*   **Tools:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-*   Contribuir para projetos open source e fazer a diferença.
+I'm always open to learning new technologies and enhancing the ones I already know!
 
 ---
 
-## Vamos Conectar! 🤝
+## My Current Goals ✨
 
-Estou aberto a novas conexões, oportunidades e desafios. Sinta-se à vontade para entrar em contato!
+*   **Secure my first opportunity as a Junior Developer**, applying my knowledge and passion for technology.
+
+*   Build practical and meaningful projects to solidify my understanding.
+
+*   Deepen my knowledge in JavaScript and explore libraries/frameworks (like React, for example, in the future).
+
+*   Collaborate with other developers and learn from the community.
+
+*   Contribute to open-source projects and make a difference.
+
+---
+
+## Let's Connect! 🤝
+
+I'm open to new connections, opportunities, and challenges. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-palma-sanches-082902426)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspalma331@gmail.com)
