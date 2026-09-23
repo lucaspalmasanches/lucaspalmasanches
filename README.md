@@ -38,7 +38,7 @@ I'm always open to learning new technologies and enhancing the ones I already kn
 
 I'm open to new connections, opportunities, and challenges. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-palma-sanches-082902426)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-palma-sanches-dev)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspalma331@gmail.com)
 
 [![Lucas stats](https://github-stats-extended.vercel.app/api?username=lucaspalmasanches)](https://github.com/stats-organization/github-stats-extended)
