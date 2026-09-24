@@ -2,17 +2,19 @@
 
 Welcome to my digital corner on GitHub!
 
-I'm an aspiring **Junior Developer**, passionate about technology and always seeking new knowledge. Currently, I'm a student at **DevClub**, where I'm honing my skills and building a solid foundation for my career.
+I'm an aspiring **Full-Stack Developer**, passionate about technology and always seeking new knowledge. I'm currently expanding my skills and building robust applications, having hands-on experience with both **frontend (React.js)** and **backend (Node.js with MongoDB and Prisma)**. As a **DevClub** student, I'm continually honing my expertise and building a solid foundation for my career.
 
 ---
 
 ## My Skills and What I'm Learning 🚀
 
-My programming journey began with web development, and I'm focused on building amazing and functional interfaces.
+My programming journey began with web development, and I'm now focused on building **full-stack applications**, crafting both amazing user interfaces and robust backend systems.
 
-*   **Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+*   **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-*   **Version Control:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+*   **Backend:** ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+*   **Version Control:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 *   **Tools:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -22,11 +24,11 @@ I'm always open to learning new technologies and enhancing the ones I already kn
 
 ## My Current Goals ✨
 
-*   **Secure my first opportunity as a Junior Developer**, applying my knowledge and passion for technology.
+*   **Secure my first opportunity as a Junior Full-Stack Developer**, applying my comprehensive knowledge and passion for technology.
 
-*   Build practical and meaningful projects to solidify my understanding.
+*   Build more complex and impactful full-stack applications.
 
-*   Deepen my knowledge in JavaScript and explore libraries/frameworks (like React, for example, in the future).
+*   Further master JavaScript, React.js, and Node.js, and continuously explore new tools and architectural patterns.
 
 *   Collaborate with other developers and learn from the community.
 
